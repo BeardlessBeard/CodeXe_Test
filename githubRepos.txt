@@ -1,0 +1,3 @@
+git@github.com:BeardlessBeard/CodeXe_John_Doe.git
+git@github.com:BeardlessBeard/CodeXe_Jane_Smith.git
+git@github.com:BeardlessBeard/CodeXe_Ima_Cheater.git
